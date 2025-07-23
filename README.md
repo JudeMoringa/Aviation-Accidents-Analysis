@@ -1,6 +1,6 @@
 # Aviation Accidents Analysis
 ## Overview
-This project primary objective is to explore the patterns and prevalance of aviation accidents.
+This project primary objective is to explore the patterns and prevalance of aviation accidents from 2010 t0 2023
 ## Business Understanding
 ### Stakeholders
 Some of the stakeholders include but are not limited to Aircraft Executives,Aircraft safety specialists,Regulatory authorities and bodies,Aircraft manufacturers and Insurance companies.
