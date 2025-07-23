@@ -5,9 +5,9 @@ This project primary objective is to explore the patterns and prevalance of avia
 ### Stakeholders
 Some of the stakeholders include but are not limited to Aircraft Executives,Aircraft safety specialists,Regulatory authorities and bodies,Aircraft manufacturers and Insurance companies.
 ### Business Questions
-    - What are the major causes of aircraft accidents?
-    - What's the trend and recent patterns of aircraft accidents?
-    - Can the data provided help inform safety and policy changes?
+ - What are the major causes of aircraft accidents?
+ - What's the trend and recent patterns of aircraft accidents?
+ - Can the data provided help inform safety and policy changes?
 ## Data Analysis and Understanding
 ### Source of data
 The data is from the Aviation_Data.csv.It is a dataset from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
