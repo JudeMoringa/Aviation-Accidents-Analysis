@@ -1,16 +1,18 @@
 # Aviation Accidents Analysis
 ## Overview
-This project primary objective is to explore the patterns and prevalance of aviation accidents from the Aviation_Data.csv.It is a dataset from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+This project primary objective is to explore the patterns and prevalance of aviation accidents.
 ## Business Understanding
 ### Stakeholders
 Some of the stakeholders include but are not limited to Aircraft Executives,Aircraft safety specialists,Regulatory authorities and bodies,Aircraft manufacturers and Insurance companies.
 ### Business Questions
-What are the major causes of aircraft accidents?
-What's the trend and recent patterns of aircraft accidents?
-Can the data provided help inform safety and policy changes?
-## Data Analsysis and Understanding
-Your company is expanding into new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
-# Data_Set
-The project intends to use the "Aviation_Data.csv" file provided for analysis.
-# Objectives
+-What are the major causes of aircraft accidents?
+-What's the trend and recent patterns of aircraft accidents?
+-Can the data provided help inform safety and policy changes?
+## Data Analysis and Understanding
+### Source of data
+The data is from the Aviation_Data.csv.It is a dataset from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+### Description of data
+The data consists of civil aviation accidents from 1962 to 2023.The data highlights various features such as the date and locations of the accidents,the aircraft operators,the phases of flights ,number of fatalities,the causes of the accidents and the weather conditions.
+## Conclusion
+
 
