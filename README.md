@@ -6,7 +6,7 @@ This project primary objective is to explore the patterns and prevalance of avia
 Some of the stakeholders include but are the company's Aircraft Executives,Aircraft safety specialists,Regulatory and quality assurance team.
 ### Business Questions
  - What types of aircrafts are likely to be involved in accidents?
- - What's the trend and recent patterns of aircraft accidents as from 20210 to 2023?
+ - What's the trend and recent patterns of aircraft accidents as from 2010 to 2023?
  - What's the fatality rate pattern of aircraft accidents from 2010 to 2023?
 ## Data Analysis and Understanding
 ### Source of data
