@@ -21,5 +21,5 @@ Number of aviation accidents per year from 2010 to 2023
 <img width="712" height="352" alt="image" src="https://github.com/user-attachments/assets/b71512c8-f4fb-4aec-9158-40d3df22626d" />
 
 ## Conclusion
-In summary,aircraft accidents have reducing over the years.The number of fatalities has reduced significantly since 2010 with the exception of 2014,before the continued reduction of fatalities.Airplanes are considered as the most types of aircrafts involved in accidents over the years.
+In summary,aircraft accidents have been reducing over the years.The number of fatalities has reduced significantly since 2010 with the exception of 2014,before the continued reduction of fatalities.Airplanes are considered as the most types of aircrafts involved in accidents over the years.
 
